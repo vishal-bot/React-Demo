@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Demo/static/css/main.c1694313.css",
+    "main.js": "/React-Demo/static/js/main.e0e91628.js",
+    "static/js/787.c6746ee3.chunk.js": "/React-Demo/static/js/787.c6746ee3.chunk.js",
+    "static/media/HDFC-Bank-Logo.png": "/React-Demo/static/media/HDFC-Bank-Logo.cc67bd4ee066cb64c0c8.png",
+    "static/media/hdfc-logo-sm.png": "/React-Demo/static/media/hdfc-logo-sm.3b8c4f6627c2d6eb992d.png",
+    "index.html": "/React-Demo/index.html",
+    "main.c1694313.css.map": "/React-Demo/static/css/main.c1694313.css.map",
+    "main.e0e91628.js.map": "/React-Demo/static/js/main.e0e91628.js.map",
+    "787.c6746ee3.chunk.js.map": "/React-Demo/static/js/787.c6746ee3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1694313.css",
+    "static/js/main.e0e91628.js"
+  ]
+}
