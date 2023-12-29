@@ -1,0 +1,121 @@
+<style> .textmode { } </style><table width=100% cellpadding='5' cellspacing='5' style=border-collapse: collapse;>
+        <tr>
+            <td align='right' style='border:1px solid black;'><span style='font-weight:bold'>  Client Name :</span></td>
+            <td valign=top style=border:1px solid black;>
+
+                HDFC LTD.
+
+            </td>
+            <td valign='top' style='border:1px solid black;' align='right'>
+                <span style='font-weight:bold'>  Location :</span>
+            </td>
+            <td valign='top' style='border:1px solid black;'>
+                JOGESHWARI
+
+            </td>
+            <td align='center' colspan='4' rowspan='4' style='border:1px solid black;background: #F5ECD9;font-size:22px;font-weight:bold;'>
+              Manek Consulting 
+
+            </td>
+        </tr>
+        <tr>
+            <td valign='top' style='border:1px solid black;' align='right'>
+                <span style='font-weight:bold'>  Consultant Name :</span>
+            </td>
+
+            <td valign='top' style='border:1px solid black;'>
+
+                Akash Shekhar Khaparde
+
+            </td>
+            <td valign='top' style='border:1px solid black;' align='right'>
+                <span style='font-weight:bold'>  Project Manager :</span>
+            </td>
+            <td valign='top' style='border:1px solid black;'>
+                TRUPTI Gore
+
+            </td>
+        </tr>
+        <tr>
+            <td valign='top' style='border:1px solid black;' align='right'>
+                <span style='font-weight:bold'>  Consultant ID :</span>
+            </td>
+            <td valign='top' style='border:1px solid black;'>
+
+                
+
+            </td>
+            <td valign='top' style='border:1px solid black;' align='right'>
+                <span style=font-weight:bold>  Month :</span>
+            </td>
+            <td valign='top' style='border:1px solid black;'>
+                October  
+
+            </td>
+        </tr>
+        <tr>
+            <td valign='top' style='border:1px solid black;' align='right'>
+                <span style='font-weight:bold'>  Total Experience :</span>
+            </td>
+            <td valign='top' style='border:1px solid black;'>
+
+                2 Year 8 Month
+
+            </td>
+            <td valign='top' style='border:1px solid black;' align='right'>
+                
+            </td>
+            <td valign='top' style='border:1px solid black;'>
+                
+
+            </td>
+        </tr>
+		<tr>
+            <td align='center' style='border:1px solid black;' width='15%'><span style='font-weight:bold;'>  Date</span></td>
+            <td align='center' style='border:1px solid black;' width='20%'><span style='font-weight:bold;'>  Day</span></td>
+
+            <td align='center' width='10%'>
+                <table width='100%' style='border-collapse: collapse;'>
+                    <tr>
+                        <td align='center' style='border:1px solid black;' width='5%'><span style='font-weight:bold;'>  In Time</span></td>
+                        <td align='center' style='border:1px solid black;' width='5%'><span style='font-weight:bold;'>  Out Time</span></td>
+                    </tr>
+                </table>
+
+            </td>
+
+
+            <td align='center' style='border:1px solid black;' width='10%'><span style='font-weight:bold;'>  Project Name</span></td>
+            <td align='center' style='border:1px solid black;' width='10%'><span style='font-weight:bold;'>  Module Name</span></td>
+            <td align='center' style='border:1px solid black;' width='5%'><span style='font-weight:bold;'>  Duration in hours</span></td>
+            <td align='center' style='border:1px solid black;' width='5%'><span style='font-weight:bold;'>  Description</span></td>
+            <td align='center' style='border:1px solid black;' width='20%'><span style='font-weight:bold;'>  Remark/Status</span></td>
+        </tr>
+
+
+	
+
+
+        <tr><td align='center' style='border:1px solid black;'>01-OCT-23</td><td align='center' style='border:1px solid black;'>SUNDAY</td><td align='center' style='border: 1px solid black; background: #BFBFBF;' colspan='5'>HOLIDAY</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>02-OCT-23</td><td align='center' style='border:1px solid black;'>MONDAY</td><td align='center' style='border: 1px solid black; background: #BFBFBF;' colspan='5'>HOLIDAY</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>03-OCT-23</td><td align='center' style='border:1px solid black;'>TUESDAY</td><td align='center'><table width='100%' style='border-collapse: collapse;'><tr><td style='border:1px solid black;'>10:42</td><td style='border:1px solid black;'>17:30</td></tr></table></td><td align='center' style='border:1px solid black;'>HDFC</td><td align='center' style='border:1px solid black;'>tester</td><td align='center' style='border:1px solid black;'>6.47</td><td align='center' style='border:1px solid black;'>Coding</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>04-OCT-23</td><td align='center' style='border:1px solid black;'>WEDNESDAY</td><td align='center'><table width='100%' style='border-collapse: collapse;'><tr><td style='border:1px solid black;'>08:59</td><td style='border:1px solid black;'>17:30</td></tr></table></td><td align='center' style='border:1px solid black;'>HDFC</td><td align='center' style='border:1px solid black;'>tester</td><td align='center' style='border:1px solid black;'>8.30</td><td align='center' style='border:1px solid black;'>Coding</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>05-OCT-23</td><td align='center' style='border:1px solid black;'>THURSDAY</td><td align='center'><table width='100%' style='border-collapse: collapse;'><tr><td style='border:1px solid black;'>08:52</td><td style='border:1px solid black;'>17:30</td></tr></table></td><td align='center' style='border:1px solid black;'>HDFC</td><td align='center' style='border:1px solid black;'>tester</td><td align='center' style='border:1px solid black;'>8.37</td><td align='center' style='border:1px solid black;'>Coding</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>06-OCT-23</td><td align='center' style='border:1px solid black;'>FRIDAY</td><td align='center'><table width='100%' style='border-collapse: collapse;'><tr><td style='border:1px solid black;'>09:41</td><td style='border:1px solid black;'>17:30</td></tr></table></td><td align='center' style='border:1px solid black;'>HDFC</td><td align='center' style='border:1px solid black;'>tester</td><td align='center' style='border:1px solid black;'>7.48</td><td align='center' style='border:1px solid black;'>Coding</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>07-OCT-23</td><td align='center' style='border:1px solid black;'>SATURDAY</td><td align='center' style='border: 1px solid black; background: #BFBFBF;' colspan='5'>HOLIDAY</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>08-OCT-23</td><td align='center' style='border:1px solid black;'>SUNDAY</td><td align='center' style='border: 1px solid black; background: #BFBFBF;' colspan='5'>HOLIDAY</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>09-OCT-23</td><td align='center' style='border:1px solid black;'>MONDAY</td><td align='center'><table width='100%' style='border-collapse: collapse;'><tr><td style='border:1px solid black;'>08:23</td><td style='border:1px solid black;'>17:30</td></tr></table></td><td align='center' style='border:1px solid black;'>HDFC</td><td align='center' style='border:1px solid black;'>tester</td><td align='center' style='border:1px solid black;'>9.06</td><td align='center' style='border:1px solid black;'>Coding</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>10-OCT-23</td><td align='center' style='border:1px solid black;'>TUESDAY</td><td align='center'><table width='100%' style='border-collapse: collapse;'><tr><td style='border:1px solid black;'>09:30</td><td style='border:1px solid black;'>17:30</td></tr></table></td><td align='center' style='border:1px solid black;'>HDFC</td><td align='center' style='border:1px solid black;'>tester</td><td align='center' style='border:1px solid black;'>343.59</td><td align='center' style='border:1px solid black;'>Coding</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>11-OCT-23</td><td align='center' style='border:1px solid black;'>WEDNESDAY</td><td align='center'><table width='100%' style='border-collapse: collapse;'><tr><td style='border:1px solid black;'>08:33</td><td style='border:1px solid black;'>17:30</td></tr></table></td><td align='center' style='border:1px solid black;'>HDFC</td><td align='center' style='border:1px solid black;'>tester</td><td align='center' style='border:1px solid black;'>8.56</td><td align='center' style='border:1px solid black;'>Coding</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>12-OCT-23</td><td align='center' style='border:1px solid black;'>THURSDAY</td><td align='center'><table width='100%' style='border-collapse: collapse;'><tr><td style='border:1px solid black;'>08:49</td><td style='border:1px solid black;'>17:30</td></tr></table></td><td align='center' style='border:1px solid black;'>HDFC</td><td align='center' style='border:1px solid black;'>tester</td><td align='center' style='border:1px solid black;'>8.40</td><td align='center' style='border:1px solid black;'>Coding</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>13-OCT-23</td><td align='center' style='border:1px solid black;'>FRIDAY</td><td align='center'><table width='100%' style='border-collapse: collapse;'><tr><td style='border:1px solid black;'>LEAVE</td><td style='border:1px solid black;'>LEAVE</td></tr></table></td><td align='center' style='border:1px solid black;'>HDFC</td><td align='center' style='border:1px solid black;'>LEAVE</td><td align='center' style='border:1px solid black;'>LEAVE</td><td align='center' style='border:1px solid black;'>Coding</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>14-OCT-23</td><td align='center' style='border:1px solid black;'>SATURDAY</td><td align='center' style='border: 1px solid black; background: #BFBFBF;' colspan='5'>HOLIDAY</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>15-OCT-23</td><td align='center' style='border:1px solid black;'>SUNDAY</td><td align='center' style='border: 1px solid black; background: #BFBFBF;' colspan='5'>HOLIDAY</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>16-OCT-23</td><td align='center' style='border:1px solid black;'>MONDAY</td><td align='center'><table width='100%' style='border-collapse: collapse;'><tr><td style='border:1px solid black;'>08:36</td><td style='border:1px solid black;'>17:30</td></tr></table></td><td align='center' style='border:1px solid black;'>HDFC</td><td align='center' style='border:1px solid black;'>tester</td><td align='center' style='border:1px solid black;'>8.53</td><td align='center' style='border:1px solid black;'>Coding</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>17-OCT-23</td><td align='center' style='border:1px solid black;'>TUESDAY</td><td align='center'><table width='100%' style='border-collapse: collapse;'><tr><td style='border:1px solid black;'>08:35</td><td style='border:1px solid black;'>17:30</td></tr></table></td><td align='center' style='border:1px solid black;'>HDFC</td><td align='center' style='border:1px solid black;'>tester</td><td align='center' style='border:1px solid black;'>8.54</td><td align='center' style='border:1px solid black;'>Coding</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>18-OCT-23</td><td align='center' style='border:1px solid black;'>WEDNESDAY</td><td align='center'><table width='100%' style='border-collapse: collapse;'><tr><td style='border:1px solid black;'>08:43</td><td style='border:1px solid black;'>17:30</td></tr></table></td><td align='center' style='border:1px solid black;'>HDFC</td><td align='center' style='border:1px solid black;'>tester</td><td align='center' style='border:1px solid black;'>8.46</td><td align='center' style='border:1px solid black;'>Coding</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>19-OCT-23</td><td align='center' style='border:1px solid black;'>THURSDAY</td><td align='center'><table width='100%' style='border-collapse: collapse;'><tr><td style='border:1px solid black;'>08:50</td><td style='border:1px solid black;'>17:30</td></tr></table></td><td align='center' style='border:1px solid black;'>HDFC</td><td align='center' style='border:1px solid black;'>tester</td><td align='center' style='border:1px solid black;'>8.39</td><td align='center' style='border:1px solid black;'>Coding</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>20-OCT-23</td><td align='center' style='border:1px solid black;'>FRIDAY</td><td align='center'><table width='100%' style='border-collapse: collapse;'><tr><td style='border:1px solid black;'>08:57</td><td style='border:1px solid black;'>17:30</td></tr></table></td><td align='center' style='border:1px solid black;'>HDFC</td><td align='center' style='border:1px solid black;'>tester</td><td align='center' style='border:1px solid black;'>8.32</td><td align='center' style='border:1px solid black;'>Coding</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>21-OCT-23</td><td align='center' style='border:1px solid black;'>SATURDAY</td><td align='center' style='border: 1px solid black; background: #BFBFBF;' colspan='5'>HOLIDAY</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>22-OCT-23</td><td align='center' style='border:1px solid black;'>SUNDAY</td><td align='center' style='border: 1px solid black; background: #BFBFBF;' colspan='5'>HOLIDAY</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>23-OCT-23</td><td align='center' style='border:1px solid black;'>MONDAY</td><td align='center'><table width='100%' style='border-collapse: collapse;'><tr><td style='border:1px solid black;'>LEAVE</td><td style='border:1px solid black;'>LEAVE</td></tr></table></td><td align='center' style='border:1px solid black;'>HDFC</td><td align='center' style='border:1px solid black;'>LEAVE</td><td align='center' style='border:1px solid black;'>LEAVE</td><td align='center' style='border:1px solid black;'>Coding</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>24-OCT-23</td><td align='center' style='border:1px solid black;'>TUESDAY</td><td align='center' style='border: 1px solid black; background: #BFBFBF;' colspan='5'>HOLIDAY</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>25-OCT-23</td><td align='center' style='border:1px solid black;'>WEDNESDAY</td><td align='center'><table width='100%' style='border-collapse: collapse;'><tr><td style='border:1px solid black;'>09:29</td><td style='border:1px solid black;'>17:30</td></tr></table></td><td align='center' style='border:1px solid black;'>HDFC</td><td align='center' style='border:1px solid black;'>tester</td><td align='center' style='border:1px solid black;'>8.00</td><td align='center' style='border:1px solid black;'>Coding</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>26-OCT-23</td><td align='center' style='border:1px solid black;'>THURSDAY</td><td align='center'><table width='100%' style='border-collapse: collapse;'><tr><td style='border:1px solid black;'>08:22</td><td style='border:1px solid black;'>17:30</td></tr></table></td><td align='center' style='border:1px solid black;'>HDFC</td><td align='center' style='border:1px solid black;'>tester</td><td align='center' style='border:1px solid black;'>9.07</td><td align='center' style='border:1px solid black;'>Coding</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>27-OCT-23</td><td align='center' style='border:1px solid black;'>FRIDAY</td><td align='center'><table width='100%' style='border-collapse: collapse;'><tr><td style='border:1px solid black;'>08:48</td><td style='border:1px solid black;'>17:30</td></tr></table></td><td align='center' style='border:1px solid black;'>HDFC</td><td align='center' style='border:1px solid black;'>tester</td><td align='center' style='border:1px solid black;'>8.41</td><td align='center' style='border:1px solid black;'>Coding</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>28-OCT-23</td><td align='center' style='border:1px solid black;'>SATURDAY</td><td align='center' style='border: 1px solid black; background: #BFBFBF;' colspan='5'>HOLIDAY</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>29-OCT-23</td><td align='center' style='border:1px solid black;'>SUNDAY</td><td align='center' style='border: 1px solid black; background: #BFBFBF;' colspan='5'>HOLIDAY</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>30-OCT-23</td><td align='center' style='border:1px solid black;'>MONDAY</td><td align='center'><table width='100%' style='border-collapse: collapse;'><tr><td style='border:1px solid black;'>09:41</td><td style='border:1px solid black;'>17:30</td></tr></table></td><td align='center' style='border:1px solid black;'>HDFC</td><td align='center' style='border:1px solid black;'>tester</td><td align='center' style='border:1px solid black;'>7.48</td><td align='center' style='border:1px solid black;'>Coding</td><td align='center' style='border:1px solid black;'></td></tr><tr><td align='center' style='border:1px solid black;'>31-OCT-23</td><td align='center' style='border:1px solid black;'>TUESDAY</td><td align='center'><table width='100%' style='border-collapse: collapse;'><tr><td style='border:1px solid black;'>09:21</td><td style='border:1px solid black;'></td></tr></table></td><td align='center' style='border:1px solid black;'>HDFC</td><td align='center' style='border:1px solid black;'>tester</td><td align='center' style='border:1px solid black;'>0.00</td><td align='center' style='border:1px solid black;'>Coding</td><td align='center' style='border:1px solid black;'></td></tr>
+    </table>
+	<br />
+	<br />
+    <table width='100%'>
+        <tr>
+            <td>
+                <span style='font-weight:bold;'> Total No. Absent Days :</span>
+            </td>
+            <td>
+                2
+            </td>
+			
+           
+        </tr>
+		<tr></tr>
+		<tr>
+		<td colspan="4">
+                <span style='font-weight:bold;'> * Please note in case of 3 late marks, half CL will be considered.</span>
+            </td>
+			</tr>
+			
+    </table>
