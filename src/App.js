@@ -30,7 +30,7 @@ function App() {
   return (
     <div className="App">
       <BrowserRouter>
-      <Header></Header>
+      <Header/>
         <Routes>
           <Route path='/' element={<Dashboard />}></Route>
           <Route path='/login' element={<Login />}></Route>
@@ -39,7 +39,7 @@ function App() {
           <Route path='/about' element={<About />}></Route>
           <Route path='/contact' element={<Contact />}></Route>
         </Routes>
-        <Footer></Footer>
+        <Footer/>
       </BrowserRouter>
     </div>
   );
